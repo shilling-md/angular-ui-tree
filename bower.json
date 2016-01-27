@@ -8,7 +8,7 @@
   ],
   "description": "Tree directive for the angular.js",
   "main": [
-    "dist/angular-ui-tree.js",
+    "dist/angular-ui-tree.min.js",
     "dist/angular-ui-tree.min.css"
   ],
   "keywords": [
